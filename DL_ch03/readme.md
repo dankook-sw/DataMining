@@ -1,3 +1,4 @@
-dataset/mnist.py
 
 common/functions.py
+
+pretrained/sample_weight.pkl
